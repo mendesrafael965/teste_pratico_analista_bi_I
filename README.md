@@ -86,3 +86,8 @@
   A figura abaixo apresenta o modelo após criadas as tabelas e seus relacionamentos no banco de dados PostgreSQL.
 </p> 
 <img src="assets/imgs/mer_nexora_digital.png"/>
+
+<h2>Dashboard (Somente iniciado)</h2>
+<p align="justify">
+    Visuais e indicadores em construção. Para construção do layout foi utilizada a ferramenta <b>Figma</b>.
+</p> 
