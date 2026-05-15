@@ -83,7 +83,7 @@
   Sendo os campos <b>data_ini</b>, <b>data_fim</b> e atual utilizados para garantir rastreabilidade do histórico completo de alterações em atributos das dimensões. Já os campos <b>data_carga</b> e <b>data_atualizacao</b> são utilizados para auditorias.
 </p> 
 <p align="justify">
-  A figura abaixo apresenta o modelo após criadas as tabelas e seus relacionamentos no banco de dados PostgreSQL.
+  O <a href="https://github.com/mendesrafael965/teste_pratico_analista_bi_I/blob/main/make%20db.sql"> arquivo</a> contém as instruções utilizadas para criar o banco de dados. Já a figura abaixo apresenta o modelo após criadas as tabelas e seus relacionamentos no banco de dados PostgreSQL.
 </p> 
 <img src="assets/imgs/mer_nexora_digital.png"/>
 
